@@ -1,6 +1,6 @@
 {
   "name": "check-weekend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to check if a date falls on a weekend (Saturday or Sunday)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
